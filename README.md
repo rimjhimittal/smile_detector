@@ -17,4 +17,3 @@ pip install opencv-python
 
 
 
-This was a Code-Along with [@ProgrammingHero1](https://github.com/ProgrammingHero1)
